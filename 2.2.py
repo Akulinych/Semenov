@@ -15,7 +15,7 @@ def custom_quit(msg: str) -> None:
 
 
 class Translator:
-    AZN: str = "Манаты"
+    AZN: str = "OOOOOO"
     BYR: str = "Белорусские рубли"
     EUR: str = "Евро"
     GEL: str = "Грузинский лари"
